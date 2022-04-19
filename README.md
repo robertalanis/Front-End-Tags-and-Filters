@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Demo
+
+https://robertalanis.github.io/Front-End-Tags-and-Filters/
+
 # Project Info
 
 This is a simple front-end application that takes data from a mock API of students and allows users to search and filter data that is recieved from the API. Users can view and expand on student grade data, as well as add tags to each student.

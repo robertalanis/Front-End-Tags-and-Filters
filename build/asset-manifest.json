@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Front-End-Tags-and-Filters/static/css/main.38e4584a.css",
+    "main.js": "/Front-End-Tags-and-Filters/static/js/main.6a1ef2e0.js",
+    "index.html": "/Front-End-Tags-and-Filters/index.html",
+    "main.38e4584a.css.map": "/Front-End-Tags-and-Filters/static/css/main.38e4584a.css.map",
+    "main.6a1ef2e0.js.map": "/Front-End-Tags-and-Filters/static/js/main.6a1ef2e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38e4584a.css",
+    "static/js/main.6a1ef2e0.js"
+  ]
+}
