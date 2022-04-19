@@ -1,0 +1,72 @@
+.app-container {
+	height: 80vh;
+	margin-top: 10vh;
+	padding: 0 1em 0 1em;
+	background-color: white;
+	box-shadow: 1px 1px 1px 1px gray;
+	border-radius: 10px;
+}
+
+.status-message {
+	text-align: center;
+	padding-top: 35vh;
+}
+
+input {
+	width: 100%;
+	height: 3em;
+	border: none;
+	padding: 0;
+	border-bottom: 1px solid;
+	font-size: 1em;
+}
+
+.card-container {
+	overflow: scroll;
+	height: calc(100% - 6em);
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	.app-container {
+		margin-top: 0;
+		height: 94vh;
+		box-shadow: none;
+	}
+	.card-container {
+		height: 100%;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.app-container {
+		margin-left: 12vw;
+		margin-right: 12vw;
+	}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.app-container {
+		margin-left: 14vw;
+		margin-right: 14vw;
+
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.app-container {
+		margin-left: 22vw;
+		margin-right: 22vw;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.app-container {
+		margin-left: 25vw;
+		margin-right: 25vw;
+	}
+}

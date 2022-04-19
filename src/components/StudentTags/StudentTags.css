@@ -1,0 +1,22 @@
+.tag-container {
+    display: flex;
+}
+
+.student-tag {
+    background-color: lightgrey;
+    width:fit-content;
+    padding: .5em;
+    border-radius: 5px;
+    color: black;
+    margin-right: .5em;
+    margin-top: 10px;
+}
+
+.tag-input {
+	width: 50%;
+	border-style: none none solid none;
+	padding: 0;
+    height: 2em;
+    margin-top: .5em;
+    overflow: hidden;
+}
