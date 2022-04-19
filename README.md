@@ -5,10 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <<<<<<< HEAD
 # Project Demo
 
-https://robertalanis.github.io/Front-End-Tags-and-Filters/
-=======
+[Deployed Demo](https://robertalanis.github.io/Front-End-Tags-and-Filters/)
+
 ![Website Screenshot](/public/screenshot.png)
->>>>>>> ad9fe6b3253442fd418efca0866bfb6841e01493
 
 # Project Info
 
