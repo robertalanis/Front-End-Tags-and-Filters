@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Student Search and Filter App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 # Project Demo
 
 https://robertalanis.github.io/Front-End-Tags-and-Filters/
+=======
+![Website Screenshot](/public/screenshot.png)
+>>>>>>> ad9fe6b3253442fd418efca0866bfb6841e01493
 
 # Project Info
 
